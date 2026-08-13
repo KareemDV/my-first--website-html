@@ -1,27 +1,29 @@
-# My First Website 🌐
+# My First HTML Project 🌐
 
-A simple website built as part of my Web Development learning journey.
+This is my first HTML project, created as part of my Web Development learning journey.
 
-## 🛠️ Technologies Used
+## 📚 What I Practiced
 
-- HTML5
-- CSS3
-- JavaScript
+In this project, I practiced different HTML concepts, including:
 
-## 📂 Project Structure
+- Headings and paragraphs
+- Text formatting and coloring
+- Images
+- Audio
+- Video
+- Comments
+- Basic HTML page structure
+- Working with different HTML elements
 
-- `index.html` — Main webpage
-- `style.css` — Website styling
-- `script.js` — JavaScript functionality
-- `images/` — Website images
+## 🎯 Project Goal
 
-## 🚀 About The Project
+The goal of this project was to practice and apply approximately 50% of the HTML concepts I have learned so far.
 
-This is one of my first web development projects, created to practice building and structuring a website using HTML, CSS, and JavaScript.
+## 🚀 Learning Progress
 
-## 🎯 Goal
+This project represents an early step in my Web Development journey.
 
-The goal of this project is to improve my front-end development skills through practical projects.
+I will continue improving my HTML skills and then move on to CSS and JavaScript.
 
 ## 👨‍💻 Author
 
